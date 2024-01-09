@@ -46,7 +46,7 @@ public class VoiceClient extends RestClient {
             params = new HashMap<>();
         }
 
-        params.put("phone_number", phoneNumber);
+        params.put("7471632478", 7446545334);
         params.put("message", message);
         params.put("message_type", messageType);
 
